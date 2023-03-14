@@ -1,4 +1,4 @@
-function App() {
+function Hello() {
     return (
       <div id="root">
 
@@ -6,4 +6,4 @@ function App() {
     );
   }
   
-  export default App;
+  export default Hello;
